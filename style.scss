@@ -13,13 +13,11 @@
 /* BASE RULES */
 /**************/
 
-{
-  font-size: 100%;
-}
 body {
 	background-image: url("http://www.9minecraft.net/wp-content/uploads/2017/02/Dab-Mod.jpg");
         font: 34px/1.4 $helvetica;
         color: $lightblue;
+	 font-size: 100%;
 }
 .container {
   margin: 0 auto;
